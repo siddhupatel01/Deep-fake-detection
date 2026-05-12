@@ -2,9 +2,9 @@ streamlit
 torch
 torchvision
 torchaudio
-opencv-python
 numpy
-matplotlib
 pillow
+matplotlib
+opencv-python-headless
 facenet-pytorch
 timm
